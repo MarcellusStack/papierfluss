@@ -1,10 +1,6 @@
+import { BaseLayout } from "@components/base-layout";
 import { Button, PinInput } from "@mantine/core";
 
 export default function Home() {
-  return (
-    <div>
-      <Button>Test</Button>
-      <PinInput />
-    </div>
-  );
+  return <BaseLayout></BaseLayout>;
 }
