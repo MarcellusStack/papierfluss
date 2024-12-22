@@ -20,7 +20,7 @@
     "@mantine/spotlight": "^7.15.1",
     "dayjs": "^1.11.13",
     "embla-carousel-react": "^7.1.0",
-    "next": "15.1.2",
+    "next": "^15.1.1-canary.16",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "recharts": "^2.15.0"
